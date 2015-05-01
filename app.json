@@ -2,6 +2,6 @@
   "name": "Checkinase",
   "description": "A simple Node.js app to do some simple maths on the contents of an end point check.",
   "repository": "https://github.com/lokulin/checkinase",
-  "logo": "http://www.lauchlin.com/images/checkinase.svg",
+  "logo": "http://www.lauchlin.com/img/checkinase.svg",
   "keywords": ["node", "ping", "endpoint"]
 }
