@@ -1,6 +1,6 @@
+var newrelic = require('newrelic');
 var cluster = require('cluster');
 var express = require('express');
-var newrelic = require('newrelic');
 var http = require('http');
 var https = require('https');
 var url = require('url');
